@@ -66,22 +66,6 @@
 			}
 , 			{
 				"box" : 				{
-					"fontface" : 2,
-					"id" : "obj-7",
-					"linecount" : 2,
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 432.0, 239.0, 151.0, 33.0 ],
-					"presentation" : 1,
-					"presentation_linecount" : 3,
-					"presentation_rect" : [ 147.0, 159.0, 117.0, 47.0 ],
-					"text" : "*click button one more time to stop the phrase"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"hidden" : 1,
 					"id" : "obj-21",
 					"maxclass" : "newobj",
@@ -167,7 +151,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 280.0, 58.0, 90.0, 194.0 ],
 					"size" : 12,
-					"value" : 7
+					"value" : 10
 				}
 
 			}
@@ -194,7 +178,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 141.0, 370.0, 152.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 140.5, 208.5, 132.0, 47.0 ],
+					"presentation_rect" : [ 140.5, 186.5, 132.0, 47.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~[1]",
@@ -266,7 +250,7 @@
 					}
 ,
 					"size" : 6,
-					"value" : 1,
+					"value" : 3,
 					"varname" : "radiogroup"
 				}
 
@@ -7433,7 +7417,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 513.0, 372.0, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 126.5, 30.934782922267914, 263.608695566654205, 238.565217077732086 ],
+					"presentation_rect" : [ 126.5, 30.934782922267914, 263.608695566654205, 234.565217077732086 ],
 					"proportion" : 0.5
 				}
 
@@ -7564,7 +7548,7 @@
 		"dependency_cache" : [ 			{
 				"name" : "IO.maxpat",
 				"bootpath" : "~/Library/Application Support/Cycling '74/Max 8/Examples/utilities/input_output IO/lib",
-				"patcherrelativepath" : "../../../../../../Users/kartikaluky/Library/Application Support/Cycling '74/Max 8/Examples/utilities/input_output IO/lib",
+				"patcherrelativepath" : "../../../Library/Application Support/Cycling '74/Max 8/Examples/utilities/input_output IO/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
